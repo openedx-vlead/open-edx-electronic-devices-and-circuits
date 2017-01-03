@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="The diffusion current is due to --------------?&#10;( ) Majority charge Carriers&#10;(x) Minority charge Carriers&#10;() Negative ions&#10;( ) Positive ions&#10;&#10;">
+<p>The diffusion current is due to --------------?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Majority charge Carriers</choice>
+    <choice correct="true">Minority charge Carriers</choice>
+    <choice correct="false">Negative ions</choice>
+    <choice correct="false">Positive ions</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
