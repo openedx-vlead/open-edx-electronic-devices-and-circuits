@@ -1,43 +1,37 @@
 <problem display_name="Multiple Choice" markdown="The rectifier converts AC voltage to pure DC voltage&#10;(x) True&#10;( ) False&#10;&#10;In a half wave rectifier with capacitor filter the diode conducts continuously during alternate cycles&#10;( ) True&#10;(x) False&#10;&#10;Bridge rectifier is a very effective rectifier as it improves ripple factor on account of four rectifier diodes used in the circuit&#10;(x) True&#10;( ) False&#10;&#10;Since the diode/s in rectifiers with filter capacitor conduct current pulses, the output voltage too is in the form of pulses.&#10;(x) True&#10;( ) False&#10;&#10;The rectifiers use transformer to transform AC to DC&#10;( )True&#10;(x)False">
-<p>The rectifier converts AC voltage to pure DC voltage</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>In a half wave rectifier with capacitor filter the diode conducts continuously during alternate cycles</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="true">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Bridge rectifier is a very effective rectifier as it improves ripple factor on account of four rectifier diodes used in the circuit</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Since the diode/s in rectifiers with filter capacitor conduct current pulses, the output voltage too is in the form of pulses.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>The rectifiers use transformer to transform AC to DC</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="true">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>The rectifier converts AC voltage to pure DC voltage</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>In a half wave rectifier with capacitor filter the diode conducts continuously during alternate cycles</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Bridge rectifier is a very effective rectifier as it improves ripple factor on account of four rectifier diodes used in the circuit</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Since the diode/s in rectifiers with filter capacitor conduct current pulses, the output voltage too is in the form of pulses.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>The rectifiers use transformer to transform AC to DC</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

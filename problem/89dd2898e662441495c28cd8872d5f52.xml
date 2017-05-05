@@ -1,43 +1,38 @@
 <problem display_name="Multiple Choice" markdown="In an intrinsic semiconductor, the electron and hole densities are equal at which temperature?&#10;(x) 0 Degree K&#10;( ) 0 Degree C&#10;( ) High temperatures&#10;( ) All temperatures&#10;&#10;The diffusion current is due to --------------&#10;( ) Majority charge Carriers&#10;(x) Minority charge Carriers&#10;( ) Negative ions&#10;( ) Positive ions&#10;&#10;The depletion region contains&#10;(x) Electrons&#10;( ) Holes&#10;( ) Impurity atoms&#10;( ) Positive and negative ions&#10;&#10;The drift current is due to&#10;(x) Majority charge Carriers&#10;( ) Minority charge Carriers&#10;( ) Negative ions&#10;( ) Positive ions&#10;&#10;">
-<p>In an intrinsic semiconductor, the electron and hole densities are equal at which temperature?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">0 Degree K</choice>
-    <choice correct="false">0 Degree C</choice>
-    <choice correct="false">High temperatures</choice>
-    <choice correct="false">All temperatures</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>The diffusion current is due to --------------</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Majority charge Carriers</choice>
-    <choice correct="true">Minority charge Carriers</choice>
-    <choice correct="false">Negative ions</choice>
-    <choice correct="false">Positive ions</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>The depletion region contains</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Electrons</choice>
-    <choice correct="false">Holes</choice>
-    <choice correct="false">Impurity atoms</choice>
-    <choice correct="false">Positive and negative ions</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>The drift current is due to</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Majority charge Carriers</choice>
-    <choice correct="false">Minority charge Carriers</choice>
-    <choice correct="false">Negative ions</choice>
-    <choice correct="false">Positive ions</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>In an intrinsic semiconductor, the electron and hole densities are equal at which temperature?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">0 Degree K</choice>
+      <choice correct="false">0 Degree C</choice>
+      <choice correct="false">High temperatures</choice>
+      <choice correct="false">All temperatures</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>The diffusion current is due to --------------</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Majority charge Carriers</choice>
+      <choice correct="true">Minority charge Carriers</choice>
+      <choice correct="false">Negative ions</choice>
+      <choice correct="false">Positive ions</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>The depletion region contains</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Electrons</choice>
+      <choice correct="false">Holes</choice>
+      <choice correct="false">Impurity atoms</choice>
+      <choice correct="false">Positive and negative ions</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>The drift current is due to</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Majority charge Carriers</choice>
+      <choice correct="false">Minority charge Carriers</choice>
+      <choice correct="false">Negative ions</choice>
+      <choice correct="false">Positive ions</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

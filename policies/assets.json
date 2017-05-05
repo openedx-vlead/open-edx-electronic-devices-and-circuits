@@ -12,7 +12,7 @@
         }, 
         "displayname": "IITB-Electronic Devices and Circuits.jpg", 
         "filename": "asset-v1:IIT-Bombay+ECE40+Anytime+type@asset+block@IITB-Electronic_Devices_and_Circuits.jpg", 
-        "import_path": null, 
+        "import_path": "IITB-Electronic Devices and Circuits.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -36,7 +36,7 @@
         }, 
         "displayname": "Postlab7.pdf", 
         "filename": "asset-v1:IIT-Bombay+ECE40+Anytime+type@asset+block@Postlab7.pdf", 
-        "import_path": null, 
+        "import_path": "Postlab7.pdf", 
         "locked": false, 
         "thumbnail_location": null
     }, 
@@ -240,7 +240,7 @@
         }, 
         "displayname": "Theory6.pdf", 
         "filename": "asset-v1:IIT-Bombay+ECE40+Anytime+type@asset+block@Theory6.pdf", 
-        "import_path": null, 
+        "import_path": "Theory6.pdf", 
         "locked": false, 
         "thumbnail_location": null
     }, 
@@ -257,7 +257,7 @@
         }, 
         "displayname": "Theory7.pdf", 
         "filename": "asset-v1:IIT-Bombay+ECE40+Anytime+type@asset+block@Theory7.pdf", 
-        "import_path": null, 
+        "import_path": "Theory7.pdf", 
         "locked": false, 
         "thumbnail_location": null
     }
