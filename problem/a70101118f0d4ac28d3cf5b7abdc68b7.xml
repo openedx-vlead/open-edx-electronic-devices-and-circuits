@@ -1,33 +1,29 @@
 <problem display_name="Multiple Choice" markdown="Biasing circuits are used to stabilize the operating point against variations in&#10;(x) input signal&#10;( ) Vcc&#10;( ) β&#10;( ) temperature&#10;&#10;Increase in Rc causes&#10;( ) Decrease in Ic&#10;(x) Increase in the slope of DC load line&#10;( ) Increase in temperature&#10;( ) Decrease in temperature&#10;&#10;RE is connected to&#10;(x) Increase the gain of the amplifier&#10;( ) Apply negative feedback&#10;( ) Decrease the temperature.&#10;( ) Stabilize the changes in Ic&#10;">
-<p>Biasing circuits are used to stabilize the operating point against variations in</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">input signal</choice>
-    <choice correct="false">Vcc</choice>
-    <choice correct="false">β</choice>
-    <choice correct="false">temperature</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Increase in Rc causes</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Decrease in Ic</choice>
-    <choice correct="true">Increase in the slope of DC load line</choice>
-    <choice correct="false">Increase in temperature</choice>
-    <choice correct="false">Decrease in temperature</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>RE is connected to</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Increase the gain of the amplifier</choice>
-    <choice correct="false">Apply negative feedback</choice>
-    <choice correct="false">Decrease the temperature.</choice>
-    <choice correct="false">Stabilize the changes in Ic</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>Biasing circuits are used to stabilize the operating point against variations in</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">input signal</choice>
+      <choice correct="false">Vcc</choice>
+      <choice correct="false">β</choice>
+      <choice correct="false">temperature</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Increase in Rc causes</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Decrease in Ic</choice>
+      <choice correct="true">Increase in the slope of DC load line</choice>
+      <choice correct="false">Increase in temperature</choice>
+      <choice correct="false">Decrease in temperature</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>RE is connected to</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Increase the gain of the amplifier</choice>
+      <choice correct="false">Apply negative feedback</choice>
+      <choice correct="false">Decrease the temperature.</choice>
+      <choice correct="false">Stabilize the changes in Ic</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>
