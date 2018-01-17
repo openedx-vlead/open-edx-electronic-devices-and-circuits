@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "ECE40", 
+            "course": "ece40", 
             "name": "IITB-Electronic_Devices_and_Circuits.jpg", 
-            "org": "IIT-Bombay", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "IITB-Electronic Devices and Circuits.jpg", 
-        "filename": "asset-v1:IIT-Bombay+ECE40+Anytime+type@asset+block@IITB-Electronic_Devices_and_Circuits.jpg", 
+        "filename": "asset-v1:Virtual-Labs+ece40+Anytime+type@asset+block@IITB-Electronic_Devices_and_Circuits.jpg", 
         "import_path": "IITB-Electronic Devices and Circuits.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIT-Bombay", 
-            "ECE40", 
+            "Virtual-Labs", 
+            "ece40", 
             "thumbnail", 
             "IITB-Electronic_Devices_and_Circuits.jpg", 
             null
@@ -27,15 +27,15 @@
         "contentType": "application/pdf", 
         "content_son": {
             "category": "asset", 
-            "course": "ECE40", 
+            "course": "ece40", 
             "name": "Postlab7.pdf", 
-            "org": "IIT-Bombay", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "Postlab7.pdf", 
-        "filename": "asset-v1:IIT-Bombay+ECE40+Anytime+type@asset+block@Postlab7.pdf", 
+        "filename": "asset-v1:Virtual-Labs+ece40+Anytime+type@asset+block@Postlab7.pdf", 
         "import_path": "Postlab7.pdf", 
         "locked": false, 
         "thumbnail_location": null
@@ -44,15 +44,15 @@
         "contentType": "application/pdf", 
         "content_son": {
             "category": "asset", 
-            "course": "ECE40", 
+            "course": "ece40", 
             "name": "Postlab__1_.pdf", 
-            "org": "IIT-Bombay", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "Postlab (1).pdf", 
-        "filename": "asset-v1:IIT-Bombay+ECE40+Anytime+type@asset+block@Postlab__1_.pdf", 
+        "filename": "asset-v1:Virtual-Labs+ece40+Anytime+type@asset+block@Postlab__1_.pdf", 
         "import_path": "Postlab (1).pdf", 
         "locked": false, 
         "thumbnail_location": null
@@ -61,15 +61,15 @@
         "contentType": "application/pdf", 
         "content_son": {
             "category": "asset", 
-            "course": "ECE40", 
+            "course": "ece40", 
             "name": "Postlab__2_.pdf", 
-            "org": "IIT-Bombay", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "Postlab (2).pdf", 
-        "filename": "asset-v1:IIT-Bombay+ECE40+Anytime+type@asset+block@Postlab__2_.pdf", 
+        "filename": "asset-v1:Virtual-Labs+ece40+Anytime+type@asset+block@Postlab__2_.pdf", 
         "import_path": "Postlab (2).pdf", 
         "locked": false, 
         "thumbnail_location": null
@@ -78,15 +78,15 @@
         "contentType": "application/pdf", 
         "content_son": {
             "category": "asset", 
-            "course": "ECE40", 
+            "course": "ece40", 
             "name": "Postlab__3_.pdf", 
-            "org": "IIT-Bombay", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "Postlab (3).pdf", 
-        "filename": "asset-v1:IIT-Bombay+ECE40+Anytime+type@asset+block@Postlab__3_.pdf", 
+        "filename": "asset-v1:Virtual-Labs+ece40+Anytime+type@asset+block@Postlab__3_.pdf", 
         "import_path": "Postlab (3).pdf", 
         "locked": false, 
         "thumbnail_location": null
@@ -95,15 +95,15 @@
         "contentType": "application/pdf", 
         "content_son": {
             "category": "asset", 
-            "course": "ECE40", 
+            "course": "ece40", 
             "name": "Postlab__4_.pdf", 
-            "org": "IIT-Bombay", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "Postlab (4).pdf", 
-        "filename": "asset-v1:IIT-Bombay+ECE40+Anytime+type@asset+block@Postlab__4_.pdf", 
+        "filename": "asset-v1:Virtual-Labs+ece40+Anytime+type@asset+block@Postlab__4_.pdf", 
         "import_path": "Postlab (4).pdf", 
         "locked": false, 
         "thumbnail_location": null
@@ -112,15 +112,15 @@
         "contentType": "application/pdf", 
         "content_son": {
             "category": "asset", 
-            "course": "ECE40", 
+            "course": "ece40", 
             "name": "Postlab__5_.pdf", 
-            "org": "IIT-Bombay", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "Postlab (5).pdf", 
-        "filename": "asset-v1:IIT-Bombay+ECE40+Anytime+type@asset+block@Postlab__5_.pdf", 
+        "filename": "asset-v1:Virtual-Labs+ece40+Anytime+type@asset+block@Postlab__5_.pdf", 
         "import_path": "Postlab (5).pdf", 
         "locked": false, 
         "thumbnail_location": null
@@ -129,15 +129,15 @@
         "contentType": "application/pdf", 
         "content_son": {
             "category": "asset", 
-            "course": "ECE40", 
+            "course": "ece40", 
             "name": "Theory.pdf", 
-            "org": "IIT-Bombay", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "Theory.pdf", 
-        "filename": "asset-v1:IIT-Bombay+ECE40+Anytime+type@asset+block@Theory.pdf", 
+        "filename": "asset-v1:Virtual-Labs+ece40+Anytime+type@asset+block@Theory.pdf", 
         "import_path": "Theory.pdf", 
         "locked": false, 
         "thumbnail_location": null
@@ -146,15 +146,15 @@
         "contentType": "application/pdf", 
         "content_son": {
             "category": "asset", 
-            "course": "ECE40", 
+            "course": "ece40", 
             "name": "Theory1.pdf", 
-            "org": "IIT-Bombay", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "Theory1.pdf", 
-        "filename": "asset-v1:IIT-Bombay+ECE40+Anytime+type@asset+block@Theory1.pdf", 
+        "filename": "asset-v1:Virtual-Labs+ece40+Anytime+type@asset+block@Theory1.pdf", 
         "import_path": "Theory1.pdf", 
         "locked": false, 
         "thumbnail_location": null
@@ -163,15 +163,15 @@
         "contentType": "application/pdf", 
         "content_son": {
             "category": "asset", 
-            "course": "ECE40", 
+            "course": "ece40", 
             "name": "Theory2.pdf", 
-            "org": "IIT-Bombay", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "Theory2.pdf", 
-        "filename": "asset-v1:IIT-Bombay+ECE40+Anytime+type@asset+block@Theory2.pdf", 
+        "filename": "asset-v1:Virtual-Labs+ece40+Anytime+type@asset+block@Theory2.pdf", 
         "import_path": "Theory2.pdf", 
         "locked": false, 
         "thumbnail_location": null
@@ -180,15 +180,15 @@
         "contentType": "application/pdf", 
         "content_son": {
             "category": "asset", 
-            "course": "ECE40", 
+            "course": "ece40", 
             "name": "Theory3.pdf", 
-            "org": "IIT-Bombay", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "Theory3.pdf", 
-        "filename": "asset-v1:IIT-Bombay+ECE40+Anytime+type@asset+block@Theory3.pdf", 
+        "filename": "asset-v1:Virtual-Labs+ece40+Anytime+type@asset+block@Theory3.pdf", 
         "import_path": "Theory3.pdf", 
         "locked": false, 
         "thumbnail_location": null
@@ -197,15 +197,15 @@
         "contentType": "application/pdf", 
         "content_son": {
             "category": "asset", 
-            "course": "ECE40", 
+            "course": "ece40", 
             "name": "Theory4.pdf", 
-            "org": "IIT-Bombay", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "Theory4.pdf", 
-        "filename": "asset-v1:IIT-Bombay+ECE40+Anytime+type@asset+block@Theory4.pdf", 
+        "filename": "asset-v1:Virtual-Labs+ece40+Anytime+type@asset+block@Theory4.pdf", 
         "import_path": "Theory4.pdf", 
         "locked": false, 
         "thumbnail_location": null
@@ -214,15 +214,15 @@
         "contentType": "application/pdf", 
         "content_son": {
             "category": "asset", 
-            "course": "ECE40", 
+            "course": "ece40", 
             "name": "Theory5.pdf", 
-            "org": "IIT-Bombay", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "Theory5.pdf", 
-        "filename": "asset-v1:IIT-Bombay+ECE40+Anytime+type@asset+block@Theory5.pdf", 
+        "filename": "asset-v1:Virtual-Labs+ece40+Anytime+type@asset+block@Theory5.pdf", 
         "import_path": "Theory5.pdf", 
         "locked": false, 
         "thumbnail_location": null
@@ -231,15 +231,15 @@
         "contentType": "application/pdf", 
         "content_son": {
             "category": "asset", 
-            "course": "ECE40", 
+            "course": "ece40", 
             "name": "Theory6.pdf", 
-            "org": "IIT-Bombay", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "Theory6.pdf", 
-        "filename": "asset-v1:IIT-Bombay+ECE40+Anytime+type@asset+block@Theory6.pdf", 
+        "filename": "asset-v1:Virtual-Labs+ece40+Anytime+type@asset+block@Theory6.pdf", 
         "import_path": "Theory6.pdf", 
         "locked": false, 
         "thumbnail_location": null
@@ -248,15 +248,15 @@
         "contentType": "application/pdf", 
         "content_son": {
             "category": "asset", 
-            "course": "ECE40", 
+            "course": "ece40", 
             "name": "Theory7.pdf", 
-            "org": "IIT-Bombay", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "Theory7.pdf", 
-        "filename": "asset-v1:IIT-Bombay+ECE40+Anytime+type@asset+block@Theory7.pdf", 
+        "filename": "asset-v1:Virtual-Labs+ece40+Anytime+type@asset+block@Theory7.pdf", 
         "import_path": "Theory7.pdf", 
         "locked": false, 
         "thumbnail_location": null
